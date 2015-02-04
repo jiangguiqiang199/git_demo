@@ -10,6 +10,7 @@ import java.io.InputStreamReader;
 public class CopyOfTest {
 
 	public static void main(String[] args) {
+		System.out.println("asdfasd");
 //		String mobilePhone = "15001021861";
 //		String message = "這是一個測試";
 //		String endPoint = "http://econnect.hotdotchina.com/econnect/pitf/submit.jsp?uid=wuyou&pswd=wy0051&extno=0051"; 
